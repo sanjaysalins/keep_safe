@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 1286 909" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_1"><path d="M73.3 881.6V27.8H1211.4V881.6Z"/></clipPath>
+<clipPath id="c1_1"><path d="M73.3 881.7V27.8H1211.4V881.7Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_1{
+fill: #FFF;
+}
+.g1_1{
+fill: none;
+stroke: #000;
+stroke-width: 3.161;
+stroke-linejoin: round;
+}
+.g2_1{
+fill: #000;
+}
+]]></style>
+</defs>
+<path clip-path="url(#c0_1)" d="M73.3 881.6H1211.4V27.8H73.3V881.6Z" class="g0_1"/>
+<path clip-path="url(#c1_1)" d="M73.3 881.7H1211.4V27.8H73.3V881.7Z" class="g0_1"/>
+<path d="M109.2 698.1H630.7V79.2H109.2V698.1Z" class="g0_1"/>
+<path d="M109.2 79.2H630.7V698.1H109.2V79.2Z" class="g1_1"/>
+<path d="M687.3 367.2h488.2V187.5H687.3V367.2Z" class="g0_1"/>
+<path d="M687.3 187.5h488.2V367.2H687.3V187.5Z" class="g1_1"/>
+<path fill-rule="evenodd" d="M711.2 290.4h442.9v1.5H711.2Z" class="g2_1"/>
+<g clip-path="url(#c1_1)">
+<image preserveAspectRatio="none" x="73" y="767" width="1145" height="16" xlink:href="img/1.png"/>
+<path d="M73.4 770.7l1138 3.3" class="g1_1"/>
+</g>
+<path d="M687.3 465.2h488.2V397.9H687.3v67.3Z" class="g0_1"/>
+<path d="M687.3 397.9h488.2v67.3H687.3V397.9Z" class="g1_1"/>
+<path d="M688.5 556.1H846.9V488.8H688.5v67.3Z" class="g0_1"/>
+<path d="M688.5 488.8H846.9v67.3H688.5V488.8Z" class="g1_1"/>
+<path d="M907.9 130.8h267.6V79.2H907.9v51.6Z" class="g0_1"/>
+<path d="M907.9 79.2h267.6v51.6H907.9V79.2Z" class="g1_1"/>
+<image clip-path="url(#c1_1)" preserveAspectRatio="none" x="1130" y="85" width="40" height="40" xlink:href="img/2.png"/>
+<path d="M1017.1 554.2h158.4V487H1017.1v67.2Z" class="g0_1"/>
+<path d="M1017.1 487h158.4v67.2H1017.1V487Z" class="g1_1"/>
+<path d="M906.3 689.2h267.6V637.6H906.3v51.6Z" class="g0_1"/>
+<path d="M906.3 637.6h267.6v51.6H906.3V637.6Z" class="g1_1"/>
+</svg>
